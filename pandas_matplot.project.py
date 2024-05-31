@@ -2,7 +2,8 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-
+#Author - Aljermaine Wright
+#Date - 31/05/2024
 # Function to show user the dataframe
 def show_data():
     try:
